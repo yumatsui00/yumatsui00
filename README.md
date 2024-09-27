@@ -1,6 +1,5 @@
-var me = Developer(
-    name: "pokotieru-mashumaro",
-    age: 20,
-    company: nil,
-    tech: ["SwiftUI", "Jetpack Compose", "KMM", "Django",  "PostgreSQL", "Firebase"]
-)
+ <p align="leading">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,python,django,firebase,postgres,sqlite,postman" />
+  </a>
+</p>
