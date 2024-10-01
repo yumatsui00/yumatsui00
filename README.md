@@ -7,4 +7,7 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={yumatsui00}
+)](https://github.com/anuraghazra/github-readme-stats)
+
 # check [this](https://yuma.poco-vision.com) out! 
