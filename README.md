@@ -2,8 +2,7 @@
  
  <p align="leading">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,kotlin,python,html,css,js,react,postgres" />
-   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,blender,aws,dynamoDB,docker,firebase,nginx,wordpress,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,kotlin,pythondb,docker,firebase,nginx,wordpress,github" />
   </a>
 </p>
 
