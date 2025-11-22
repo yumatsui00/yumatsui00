@@ -1,4 +1,4 @@
- /* [![yumatsui's 42 stats](https://badge.mediaplus.ma/colorfulwaves/yumatsui)](https://github.com/oakoudad/badge42) */
+<!--  [![yumatsui's 42 stats](https://badge.mediaplus.ma/colorfulwaves/yumatsui)](https://github.com/oakoudad/badge42) -->
  
  <p align="leading">
   <a href="https://skillicons.dev">
@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumatsui00&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
-# check [this](https://yuma.poco-vision.com) out! 
+<!-- # check [this](https://yuma.poco-vision.com) out!  -->
