@@ -1,4 +1,4 @@
- [![yumatsui's 42 stats](https://badge.mediaplus.ma/colorfulwaves/yumatsui)](https://github.com/oakoudad/badge42)
+ /* [![yumatsui's 42 stats](https://badge.mediaplus.ma/colorfulwaves/yumatsui)](https://github.com/oakoudad/badge42) */
  
  <p align="leading">
   <a href="https://skillicons.dev">
